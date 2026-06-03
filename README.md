@@ -75,6 +75,11 @@ cargo install --git https://codeberg.org/vitali87/croft.git
 
 This compiles croft from the latest `main` and drops the binary in `~/.cargo/bin/croft`. Re-run the same command to upgrade.
 
+### Prebuilt binaries
+
+Tagged releases publish prebuilt binaries for Linux and macOS at:
+https://github.com/Jelloeater/croft/releases
+
 ### Build from source
 
 ```bash
